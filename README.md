@@ -1,2 +1,2 @@
-# IoT-Home
+# IoT@Home
 IoT@Home
